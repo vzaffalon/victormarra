@@ -8,7 +8,7 @@ Hi, I'm Victor 💻.
 + Living in São Paulo, Brazil 🇧🇷.
 - I have a bachelors degree in computer engineering
 ! I love working with Ruby on Rails and React
-# 📖 I am currently studying systems design and functional programming
+# 📖 Systems design and functional programming
 ```
 <code>
   <a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
