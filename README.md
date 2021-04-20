@@ -45,15 +45,15 @@ Hi, I'm Victor 💻.
 
 <p align="center">
 <a href="https://github.com/vzaffalon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vzaffalon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="right"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vzaffalon&layout=compact&langs_count=8&theme=algolia" align="left"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vzaffalon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vzaffalon&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://vzaffalon.github.io/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:zaffalonvictor@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
