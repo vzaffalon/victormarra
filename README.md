@@ -1,4 +1,4 @@
-<img align="right" height="150" style={{margin-top: 10px;}} src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
 ```diff
 Hi, I'm Victor 💻.
