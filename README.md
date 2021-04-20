@@ -1,5 +1,5 @@
 <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
 ```diff
 Hi, I'm Victor 💻.
@@ -29,7 +29,7 @@ Hi, I'm Victor 💻.
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -45,8 +45,8 @@ Hi, I'm Victor 💻.
 
 <p align="center">
 <a href="https://github.com/vzaffalon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vzaffalon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="right"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vzaffalon&layout=compact&langs_count=8&theme=algolia" align="left"/>
 </a>
 </p>
 
@@ -54,8 +54,8 @@ Hi, I'm Victor 💻.
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://vzaffalon.github.io/"><img src="https://img.shields.io/badge/-vzaffalon.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US"><img src="https://img.shields.io/badge/-Victor%20Marra%20?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:zaffalonvictor@gmail.com"><img src="https://img.shields.io/badge/-zaffalonvictor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/vzaffalon"><img src="https://img.shields.io/badge/-@vzaffalon_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://vzaffalon.github.io/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:zaffalonvictor@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/vzaffalon"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
