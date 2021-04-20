@@ -26,8 +26,6 @@ Hi, I'm Victor 💻.
 
 <br>
 <br>
-<br>
-<br>
 
 ### 🛠 &nbsp;Tech Stack
 
