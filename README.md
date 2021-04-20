@@ -39,7 +39,9 @@ Hi, I'm Victor 💻.
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
 ### ⚙️ &nbsp;GitHub Analytics
+
 
 <p align="center">
 <a href="https://github.com/vzaffalon">
@@ -48,6 +50,7 @@ Hi, I'm Victor 💻.
 </a>
 </p>
 
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -55,5 +58,4 @@ Hi, I'm Victor 💻.
 <a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:zaffalonvictor@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/vzaffalon"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
