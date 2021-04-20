@@ -37,6 +37,9 @@ Hi, I'm Victor 💻.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+\
+\
+\
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -47,7 +50,6 @@ Hi, I'm Victor 💻.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vzaffalon&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
