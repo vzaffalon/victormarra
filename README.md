@@ -54,8 +54,8 @@ Hi, I'm Victor 💻.
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://vzaffalon.github.io/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:zaffalonvictor@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/vzaffalon"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://vzaffalon.github.io/"><img src="https://img.shields.io/badge/-vzaffalon.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US"><img src="https://img.shields.io/badge/-Victor%20Marra%20?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:zaffalonvictor@gmail.com"><img src="https://img.shields.io/badge/-zaffalonvictor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/vzaffalon"><img src="https://img.shields.io/badge/-@vzaffalon__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
