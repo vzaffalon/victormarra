@@ -6,7 +6,7 @@ Hi, I'm Victor 💻.
 @@I'm a Full Stack Developer@@
 + Living in São Paulo, Brazil 🇧🇷.
 - I have a bachelors degree in computer engineering
-! I love working with Ruby on Rails, Node and React
+! I love working with React, Typescript, Ruby on Rails, NodeJS
 # 📖 Systems design and functional programming
 ```
 <code>
